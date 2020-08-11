@@ -1,0 +1,12 @@
+[package]
+name = "panoptes"
+version = "0.1.0"
+authors = ["KOREAN139 <korean139@gmail.com>"]
+edition = "2018"
+repository = "https://github.com/KOREAN139/panoptes"
+license = "MIT"
+include = ["LICENSE", "Cargo.toml", "src/**/*.rs"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
